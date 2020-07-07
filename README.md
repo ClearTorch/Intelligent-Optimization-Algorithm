@@ -6,5 +6,5 @@ Each algorithm is realized by Matlab.
 
 Contents:
 
-![acatar](./contents.svg)
+![image](./contents.svg)
 
