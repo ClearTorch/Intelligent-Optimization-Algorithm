@@ -6,5 +6,5 @@ Each algorithm is realized by Matlab.
 
 Contents:
 
-![image](https://github.com/ClearTorch/Intelligent-Optimization-Algorithm/contents.svg)
+![image](./contents.svg)
 
